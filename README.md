@@ -59,31 +59,26 @@ O sistema opera com base nas seguintes regras:
 A seguir são apresentados os diagramas UML que modelam o sistema, conforme solicitado no projeto.
 
 ### Diagrama de Caso de Uso
-
 O diagrama de caso de uso modela as principais funcionalidades do sistema e a interação entre os atores.
 
-\<img width="500px" height="500px" src="../Trabalho-SGO/imagens/diagrama-de-cado-de-uso.jpg"/\>
+<img width="500px" height="500px" src="imagens/diagrama-de-cado-de-uso.jpg"/>
 
 ### Diagrama de Classes
-
 Este diagrama reflete a estrutura do sistema, incluindo as principais classes e seus relacionamentos.
 
-\<img width="500px" height="500px" src="../Trabalho-SGO/imagens/diagrama-de-classes.jpg"/\>
+<img width="500px" height="500px" src="imagens/diagrama-de-classes.jpg"/>
 
 ### Diagrama de Pacotes
-
 O diagrama de pacotes organiza as classes do sistema em pacotes para separar as diferentes responsabilidades.
 
-\<img width="500px" height="500px" src="../Trabalho-SGO/imagens/diagrama-de-pacotes.jpg"/\>
+<img width="500px" height="500px" src="imagens/diagrama-de-pacotes.jpg"/>
 
 ### Diagrama de Componentes
-
 Modela os componentes principais do sistema e como eles interagem entre si.
 
-\<img width="500px" height="500px" src="../Trabalho-SGO/imagens/diagrama-de-componentes.jpg"/\>
+<img width="500px" height="500px" src="imagens/diagrama-de-componentes.jpg"/>
 
 ### Diagrama de Implantação
-
 Ilustra a arquitetura física do sistema, mostrando como os componentes serão distribuídos na infraestrutura de TI.
 
-\<img width="500px" height="500px" src="../Trabalho-SGO/imagens/diagrama-de-implantacao.jpg"/\>
+<img width="500px" height="500px" src="imagens/diagrama-de-implantacao.jpg"/>
